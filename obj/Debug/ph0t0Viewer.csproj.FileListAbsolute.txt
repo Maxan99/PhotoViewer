@@ -1,0 +1,10 @@
+D:\Programs\ph0t0Viewer\bin\Debug\ph0t0Viewer.exe.config
+D:\Programs\ph0t0Viewer\bin\Debug\ph0t0Viewer.exe
+D:\Programs\ph0t0Viewer\bin\Debug\ph0t0Viewer.pdb
+D:\Programs\ph0t0Viewer\obj\Debug\ph0t0Viewer.csprojAssemblyReference.cache
+D:\Programs\ph0t0Viewer\obj\Debug\ph0t0Viewer.Form1.resources
+D:\Programs\ph0t0Viewer\obj\Debug\ph0t0Viewer.Properties.Resources.resources
+D:\Programs\ph0t0Viewer\obj\Debug\ph0t0Viewer.csproj.GenerateResource.cache
+D:\Programs\ph0t0Viewer\obj\Debug\ph0t0Viewer.csproj.CoreCompileInputs.cache
+D:\Programs\ph0t0Viewer\obj\Debug\ph0t0Viewer.exe
+D:\Programs\ph0t0Viewer\obj\Debug\ph0t0Viewer.pdb
